@@ -4,8 +4,8 @@ const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:Sy;Bot;;;
 FN: Elyas
-item.ORG: ELYAS GANTENG
-item1.TEL;waid=6285643354073:6285643354073@s.whatsapp.net
+item.ORG: kyy-
+item1.TEL;waid=6285723302803:6285723302803@s.whatsapp.net
 item1.X-ABLabel:No Wa Gw gyg
 item2.EMAIL;type=INTERNET:CIE MAU STALKING GW😅
 item2.X-ABLabel:Email
